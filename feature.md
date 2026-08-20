@@ -9,8 +9,8 @@
 - delete event (aa)
 - authentication (auth pages)
 - authorization 
-- search event
-- filter event
+- search event (Tanstack query)
+- filter event (Tanstack query)
 - profile account
 - save event
 
@@ -24,7 +24,7 @@
 ## pages to be created
 - (unprotected)
 - home (complex filter, search, location, category)
-- Event category slug
+- Event category slug 
 
 - (protected)
 - new event (modal or dedicated page) / edit event
@@ -44,3 +44,8 @@
 - store
 - utils
 - sever
+
+
+## component 
+- react-hok-form
+- Tanstack query
