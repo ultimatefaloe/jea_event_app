@@ -8,6 +8,11 @@
       "name": "ULTIMATE-25",
       "email": "ultimatefaloe@outlook.com"
     },
+
+    {
+      "name": "Joel",
+      "email": "somtocccchukwuoyima@gmail.com"
+    }
   ],
   "scripts": {
     "dev": "vite",
